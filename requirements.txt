@@ -1,0 +1,12 @@
+FastAPI~=0.94.0
+Uvicorn[standard]
+pydantic~=1.10.6
+python-decouple
+beanie~=1.17.0
+motor~=3.1.1
+email-validator
+passlib[bcrypt]~=1.7.4
+python-jose[cryptography]
+pymongo~=4.3.3
+httpx
+openai
